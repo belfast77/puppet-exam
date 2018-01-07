@@ -69,7 +69,5 @@ Describe the purpose of Code Manager
 
 **Recommended preparation resources**  
 Puppet Professional 2016 Practice Exam  (https://puppet.com/support-services/certification/2016-professional-practice-exam)  
-Puppet Fundamentals instructor-led training  
-Puppet Practitioner instructor-led training  
-Puppet Enterprise Users Guide (2016.4) (https://puppet.com/support-services/certification/2016-professional-practice-examhttps://docs.puppet.com/pe/2016.4/?_ga=2.165257403.544547594.1515222465-931650396.1508305621 ) 
+Puppet Enterprise Users Guide (2016.4) (https://docs.puppet.com/pe/2016.4/?_ga=2.204089748.544547594.1515222465-931650396.1508305621)  
 
