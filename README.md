@@ -29,31 +29,45 @@ Identify Style Guide recommendations
 Describe language features  
 Identify the core resource types  
 Demonstrate knowledge of classes and defines  
+
+
 **Modules**  
 Describe how to use modules from the Forge  
 Demonstrate knowledge of module structure  
 Identify module authoring best practices  
+
+
 **Using Puppet**  
 Describe environments in Puppet  
 Describe the lifecycle of a Puppet run  
 Describe Puppet ecosystem component usage  
-Describe how to configure a Puppet master  
+Describe how to configure a Puppet master 
+
+
 **Puppet Internals**  
 Describe the purpose of types and providers  
 Describe Puppet's use of SSL certificates  
+
+
 **Classification**  
 Describe classification  
+
+
 **Console**  
 Describe Node Manager  
 Describe RBAC  
 Describe reporting capabilities in PE Console  
+
+
 **Ecosystem**  
 Describe the purpose of PuppetDB  
 Demonstrate knowledge of Hiera  
 Describe the usage of MCollective  
 Demonstrate knowledge of Facter  
-Describe the purpose of Code Manager  
-Recommended preparation resources  
+Describe the purpose of Code Manager 
+
+
+**Recommended preparation resources**  
 Puppet Professional 2016 Practice Exam  
 Puppet Fundamentals instructor-led training  
 Puppet Practitioner instructor-led training  
