@@ -18,7 +18,9 @@ Certification overview
 Credential Awarded: Puppet Professional 2017 Certification  
 Individual Recognition: Puppet Certified Professional  
 Certification Code: PCP Certification  
-Qualified candidates  
+
+
+**Qualified candidates**  
 A qualified candidate for the Puppet Professional Certification will be able to administer system infrastructure using Puppet and develop basic modules including data separation and external data sources. A qualified candidate should also be familiar with relevant Puppet documentation, accepted practices as documented in the Puppet Language Style Guide, and maintaining relevant OS components. In addition to the required hands-on experience with Puppet IT automation software, we recommend that the candidate take the Puppet Fundamentals and Puppet Practitioner courses or have the equivalent experience before taking this exam.  
 
 ##Exam objectives  
