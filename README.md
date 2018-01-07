@@ -29,7 +29,7 @@ A qualified candidate for the Puppet Professional Certification will be able to 
 **Language**  
 Identify Style Guide recommendations  
 Describe language features  
-Identify the core resource types  (https://puppet.com/docs/puppet/5.3/cheatsheet_core_types.html)
+Identify the core resource types  (https://puppet.com/docs/puppet/5.3/cheatsheet_core_types.html)  
 Demonstrate knowledge of classes and defines  
 
 
