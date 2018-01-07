@@ -21,33 +21,33 @@ Certification Code: PCP Certification
 Qualified candidates  
 A qualified candidate for the Puppet Professional Certification will be able to administer system infrastructure using Puppet and develop basic modules including data separation and external data sources. A qualified candidate should also be familiar with relevant Puppet documentation, accepted practices as documented in the Puppet Language Style Guide, and maintaining relevant OS components. In addition to the required hands-on experience with Puppet IT automation software, we recommend that the candidate take the Puppet Fundamentals and Puppet Practitioner courses or have the equivalent experience before taking this exam.  
 
-Exam objectives  
+##Exam objectives  
  
 
-Language  
+**Language**
 Identify Style Guide recommendations  
 Describe language features  
 Identify the core resource types  
 Demonstrate knowledge of classes and defines  
-Modules  
+**Modules**  
 Describe how to use modules from the Forge  
 Demonstrate knowledge of module structure  
 Identify module authoring best practices  
-Using Puppet  
+**Using Puppet**  
 Describe environments in Puppet  
 Describe the lifecycle of a Puppet run  
 Describe Puppet ecosystem component usage  
 Describe how to configure a Puppet master  
-Puppet Internals  
+**Puppet Internals**  
 Describe the purpose of types and providers  
 Describe Puppet's use of SSL certificates  
-Classification  
+**Classification**  
 Describe classification  
-Console  
+**Console**  
 Describe Node Manager  
 Describe RBAC  
 Describe reporting capabilities in PE Console  
-Ecosystem  
+**Ecosystem**  
 Describe the purpose of PuppetDB  
 Demonstrate knowledge of Hiera  
 Describe the usage of MCollective  
