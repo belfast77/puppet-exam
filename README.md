@@ -26,7 +26,7 @@ A qualified candidate for the Puppet Professional Certification will be able to 
 ## Exam objectives  
  
 
-**Language**
+**Language**  
 Identify Style Guide recommendations  
 Describe language features  
 Identify the core resource types  
